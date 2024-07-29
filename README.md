@@ -40,4 +40,7 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
 
 Добавил текст локально
 
+Добавил еще текста локально 
+
+
 
